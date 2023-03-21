@@ -1,0 +1,10 @@
+.card{
+  margin: 100px;
+  background: azure;
+  padding: 20px;
+  width: 300px;
+}
+.pair{
+  display: flex;
+  justify-content: space-between;
+}
